@@ -1,0 +1,3 @@
+D:/Studia/PJC/Gra_turowa/cmake-build-debug/CMakeFiles/Gra_turowa.dir
+D:/Studia/PJC/Gra_turowa/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Studia/PJC/Gra_turowa/cmake-build-debug/CMakeFiles/rebuild_cache.dir

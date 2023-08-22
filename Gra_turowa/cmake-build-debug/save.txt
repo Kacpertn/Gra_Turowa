@@ -1,0 +1,7 @@
+Oved 250 50 5 earth 0 1 1
+Meelis 150 30 10 air 0 1 1
+Boyka 200 30 8 water 0 1 1
+Yevgraf 200 30 7 fire 0 1 1
+Siddharta 300 45 5 earth 0 1 1
+Fester 200 60 8 ice 0 1 1
+1 1

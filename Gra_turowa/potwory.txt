@@ -1,0 +1,15 @@
+1. Oved       250,50,5,earth
+2. Meelis     150,30,10,air
+3. Boyka      200,30,8,water
+4. Yevgraf    200,30,7,fire
+5. Siddharta  300,45,5,earth
+6. Fester     200,60,8,ice
+7. Skoler     400,40,0,steel
+8. Cillia      180,40,10,water
+9. Linnea     230,55,5,earth
+10.Varius     300,30,7 ice
+11.Arin       200,40,5,water
+12.Odran      300,30,8 fire
+13.Maura      150,70,15,air
+14.Vante      200,60,10,fire
+15.Methabel   600,20,0 steel
